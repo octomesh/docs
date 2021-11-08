@@ -1,13 +1,13 @@
-# Yggdrasil
+# Octo Mesh
 
-We are a community of programmers and network enthusiasts.
-- Many websites
+We are a community of programmers, network enthusiasts, and random people who want to join.
 - Works on almost every device
 - Easy to set up
+- Secure
 
-You can contribute to the documentation [here](https://github.com/Octonet45/docs).
+You can contribute to the documentation [here](https://github.com/octomesh/docs).
 
-## About Yggdrasil
+## About Octo Mesh and Yggdrasil
 - [FAQ](faq.md)
 - [Achievements](achievements.md)
 - [Security](security.md) *TODO*
