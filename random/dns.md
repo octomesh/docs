@@ -1,7 +1,7 @@
 
-## DNS
+# DNS
 
-Right now Yggdrasil does not have a standard DNS system; here is a list of DNS systems you can use.
+Right now Octo Mesh does not have a standard DNS system; here is a list of DNS systems you can use.
 
 ## ICANN
 Pros:
@@ -39,3 +39,10 @@ Pros:
 
 Cons:
 - Domains look bad
+
+# TLD Ideas
+Here are some ideas for a tld:
+1. `.ygg`
+2. `.mesh`
+3. `.octo`
+
