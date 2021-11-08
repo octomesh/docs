@@ -5,4 +5,4 @@ Documentation for Octo Mesh and Yggdrasil! Lots of this documentation is inspire
 Yggdrasil is an experimental routing protocol.
 
 ## What is Octo Mesh
-Octo Mesh is a community ran network that uses the Yggdrasil protocol.
+Octo Mesh is a community ran network that uses the Yggdrasil protocol. Octo Mesh is also part of the bigger Yggdrasil Network.
