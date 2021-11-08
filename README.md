@@ -1,5 +1,8 @@
-# Yggdrasil Documentation
-Documentation for Yggdrasil! Lots of this documentation is inspired and copied from [here](https://yggdrasil-network.github.io/) and [here](http://docs.meshwith.me).
+# Octo Mesh Documentation
+Documentation for Octo Mesh and Yggdrasil! Lots of this documentation is inspired and copied from [here](https://yggdrasil-network.github.io/) and [here](http://docs.meshwith.me).
 
 ## What is Yggdrasil?
-Yggdrasil is an experimental routing protocal.
+Yggdrasil is an experimental routing protocol.
+
+## What is Octo Mesh
+Octo Mesh is a community ran network that uses the Yggdrasi protocol.
